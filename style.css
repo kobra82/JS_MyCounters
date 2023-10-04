@@ -1,0 +1,11 @@
+.mask {
+    display: flex;
+  }
+  
+  fieldset {
+    width: fit-content
+  }
+  
+  p{
+      margin-block: 5px;
+  }
